@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lamia [Student at university of salford (Software Engineering)]
 
 I am an open-minded individual and passion on what I do, who is continually looking to improve and eager to support others as I build a career that combines my quantitative and qualitative skills.
-Student at university of salford (Computer Science).
+Student at university of salford (Sotware Engineering).
 passionate about Computer Science & Software Engineering, good in a range of modern technologies and different programming languages { Java | C# | HTML | CSS }
 • Highly-motivated to learn more and build up my knowledge to move on to the high level
 • I am an open-minded individual, who is continually looking to improve and eager to support others as I build a career that combines my quantitative and qualitative set of skills.
