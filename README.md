@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lamia [Student at university of salford (Computer Science)]
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Lamia [Student at university of salford (Software Engineering)]
 
 I am an open-minded individual and passion on what I do, who is continually looking to improve and eager to support others as I build a career that combines my quantitative and qualitative skills.
 Student at university of salford (Computer Science).
@@ -11,7 +11,7 @@ I am looking to start my career as a Junior Software Engineer by working with a 
 ### Technical skills:
 Java, PHP, C#, CSS, HTML
 ##### Currently Learning:
-Python, SQL
+Javascript, SQL
 ### Communication tools:
 (Slack, Microsoft Teams, Trello)
 ### Soft skills:
