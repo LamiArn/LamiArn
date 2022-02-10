@@ -9,13 +9,9 @@ passionate about Computer Science & Software Engineering, good in a range of mod
 I am looking to start my career as a Junior Software Engineer by working with a company that will enhance my skills and experience within the field.✨😍
 
 ### Technical skills:
-##### Confident:
-Python, Numpy, Pandas, SQL, Seaborn, Matplotlib, Plotly, BeautifulSoup,Supervised and Unsupervised Machine Learning,
-Data Cleaning & Preprocessing, EDA & Data Visualization, Regression & Classification Modelling, Clustering, Github
-##### Comfortable:
-Tensorflow, Timeseries - ARIMA, SARIMAX, Spark, Pyspark
+Java, PHP, C#, CSS, HTML
 ##### Currently Learning:
-AWS, Tableau
+Python, SQL
 ### Communication tools:
 (Slack, Microsoft Teams, Trello)
 ### Soft skills:
