@@ -4,7 +4,6 @@ I am an open-minded individual and passion on what I do, who is continually look
 Student at university of salford (Sotware Engineering).
 passionate about Computer Science & Software Engineering, good in a range of modern technologies and different programming languages { Java | C# | HTML | CSS }
 • Highly-motivated to learn more and build up my knowledge to move on to the high level
-• I am an open-minded individual, who is continually looking to improve and eager to support others as I build a career that combines my quantitative and qualitative set of skills.
 
 I am looking to start my career as a Junior Software Engineer by working with a company that will enhance my skills and experience within the field.✨😍
 
